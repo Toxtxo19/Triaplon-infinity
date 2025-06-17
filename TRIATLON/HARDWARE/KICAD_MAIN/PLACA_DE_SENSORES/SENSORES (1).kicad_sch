@@ -3390,7 +3390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "EESTN5 huellas:Tornillo_M3_8mm"
+		(property "Footprint" "EESTN5:Tornillo_M3_8mm"
 			(at 163.83 110.49 0)
 			(effects
 				(font
@@ -3457,7 +3457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "EESTN5 huellas:Tornillo_M3_8mm"
+		(property "Footprint" "EESTN5:Tornillo_M3_8mm"
 			(at 163.83 105.41 0)
 			(effects
 				(font
